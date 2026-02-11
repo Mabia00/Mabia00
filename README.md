@@ -123,9 +123,4 @@ Front-end development student focused on creating real web interfaces with React
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mabia00&show_icons=true&theme=tokyonight" alt="Stats" />
-  <br>
-  <img src="https://graph.tekloon.moe/pacman?user=Mabia00&theme=dark" alt="Pacman Graph" />
-</div>
 
