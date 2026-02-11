@@ -21,17 +21,21 @@
 </table>
 
 <div align="center">
-<img height="150" src="https://files.catbox.moe/vfys71.gif" alt="gif"/>
-</div>
-<hr>
-<div align="center">
   <br>
-  <a href="https://www.linkedin.com/in/maria-beatris-9422a92ab" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mbeatrispereira01@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
+  <table border="0">
+    <tr>
+      <td align="center" style="border: 1px solid #7387ce; border-radius: 10px; padding: 10px;">
+        <a href="https://www.linkedin.com/in/maria-beatris-9422a92ab" target="_blank">
+          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+        </a>
+        &nbsp;&nbsp; <a href="mailto:mbeatrispereira01@gmail.com">
+          <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 </p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Mabia00&label=Profile%20Views&color=7387ce&style=flat" alt="Views" />
