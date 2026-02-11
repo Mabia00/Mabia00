@@ -21,22 +21,19 @@
 </table>
 
 <div align="center">
-  <br>
-  <table border="0">
-    <tr>
-      <td align="center" style="border: 1px solid #7387ce; border-radius: 10px; padding: 10px;">
-        <a href="https://www.linkedin.com/in/maria-beatris-9422a92ab" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-        </a>
-        &nbsp;&nbsp; <a href="mailto:mbeatrispereira01@gmail.com">
-          <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<img height="150" src="https://files.catbox.moe/vfys71.gif" alt="gif"/>
 </div>
-
+<hr>
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/maria-beatris-9422a92ab" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mbeatrispereira01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Mabia00&label=Profile%20Views&color=7387ce&style=flat" alt="Views" />
 </p>
@@ -44,7 +41,7 @@
 <table border="0">
   <tr>
     <td valign="top">
-     <try>
+   <try>
 Front-end development student focused on creating real web interfaces with React. Passionate about clean code, user-centered design, and transforming complex ideas into responsive, accessible, and visually consistent applications.
   </td>
     <td width="20%">
@@ -78,6 +75,7 @@ Front-end development student focused on creating real web interfaces with React
 </p>
 
 ---
+
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=FFEBD2&width=435&lines=%E2%9D%94+What+I'm+Building" alt="Typing SVG" />
 <table border="0">
   <tr>
@@ -121,7 +119,7 @@ Front-end development student focused on creating real web interfaces with React
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mabia00&theme=tokyonight" />
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mabia00&theme=tokyonight&utcOffset=-3" />
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%"/>
 </div>
+
