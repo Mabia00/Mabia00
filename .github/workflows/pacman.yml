@@ -1,0 +1,28 @@
+name: generate pacman
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *" -> Runs every minute, every 12 hours
+  
+  workflow_dispatch:
+ 
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    contents: write
+    runs-on: ubuntu-lates
+    timeout-minutes: 5
+    
+    steps:
+      - name: generate pacman.svg
+        uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Mabia00
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
