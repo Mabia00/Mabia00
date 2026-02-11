@@ -1,21 +1,41 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&fontColor=7387ceb&fontAlign=13&fontAlignY=13&descAlign=40"/>
-
 <table align="center" border="0">
   <tr>
     <td valign="top">
-    <h1>👩🏻‍💻 Maria Beatris | Front-End Explorer</h1>
-<blockquote>
-  Executing: <code>whoami</code><br>
-  Status: Student & Front-End Enthusiast ☕
-  <img src="https://flagcdn.com/w20/br.png" alt="Brazil" width="20"/>
+      <h1>👩🏻‍💻 Maria Beatris | Front-End Explorer</h1>
+      <blockquote>
+        Executing: <code>whoami</code><br>
+        Status: Student & Front-End Enthusiast ☕
+        <img src="https://flagcdn.com/w20/br.png" alt="Brazil" width="20"/>
       </blockquote>
       <br>
       <a href="https://git.io/typing-sv">
         <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FFEBD2&width=435&lines=Hello+World!" alt="Typing SVG" />
       </a>
     </td>
-    <td>
+    <td align="center" valign="middle">
       <img height="150" src="https://files.catbox.moe/7f6ule.gif" alt="Laptopgif"/>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="mailto:mbeatrispereira01@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=c71532&color=000000" alt="Gmail">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/maria-beatris-9422a92ab">
+        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=57b9ff&color=000000" alt="LinkedIn">
+      </a>
+    </td>
+  </tr>
+</table>
+      </a>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
@@ -26,14 +46,7 @@
 <hr>
 <div align="center">
   <br>
-  <p align="center">
-  <a href="mailto:mbeatrispereira01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=c71532&color=000000" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/maria-beatris-9422a92ab">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=57b9ff&color=000000" alt="LinkedIn">
-  </a>
-</p>
+ 
 </p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Mabia00&label=Profile%20Views&color=7387ce&style=flat" alt="Views" />
