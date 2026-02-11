@@ -26,14 +26,15 @@
 <hr>
 <div align="center">
   <br>
-  <a href="https://www.linkedin.com/in/maria-beatris-9422a92ab" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
+  <p align="center">
   <a href="mailto:mbeatrispereira01@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=c71532&color=000000" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/maria-beatris-9422a92ab">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=57b9ff&color=000000" alt="LinkedIn">
   </a>
 </p>
-
+</p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Mabia00&label=Profile%20Views&color=7387ce&style=flat" alt="Views" />
 </p>
