@@ -118,16 +118,6 @@ Front-end development student focused on creating real web interfaces with React
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mabia00&theme=tokyonight&utcOffset=-3" />
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mabia00/Mabia00/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mabia00/Mabia00/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mabia00/Mabia00/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%"/>
 </div>
