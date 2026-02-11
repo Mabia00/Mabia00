@@ -119,8 +119,15 @@ Front-end development student focused on creating real web interfaces with React
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mabia00&theme=tokyonight" />
   <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mabia00&theme=tokyonight&utcOffset=-3" />
 </div>
+
+---
+
+<!--Pacman--!>
+<picture>
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%"/>
 </div>
-
 
